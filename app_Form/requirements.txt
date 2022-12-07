@@ -1,0 +1,7 @@
+Flask
+Flask-Session
+Werkzeug.security
+Datetime
+Functools
+Sqlite3
+Helpers
